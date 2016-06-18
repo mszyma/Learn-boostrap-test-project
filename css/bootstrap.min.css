@@ -22,3 +22,12 @@ body {
 .alert {
   display: none;
 }
+
+/* Layout*/
+#features {
+  text-align: center;
+}
+
+#features img {
+  margin: 0 0 2rem;
+}
