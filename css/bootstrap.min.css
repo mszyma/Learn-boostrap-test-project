@@ -31,3 +31,8 @@ body {
 #features img {
   margin: 0 0 2rem;
 }
+
+#thumbnail {
+  float: left;
+  margin: 0em 1em 0.9em 0;
+}
