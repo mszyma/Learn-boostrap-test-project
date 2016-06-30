@@ -6,6 +6,7 @@
 /*# sourceMappingURL=bootstrap.min.css.map */
 body {
   padding-top: 70px;
+
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -82,3 +83,15 @@ body {
     font-size: 10px;
   }
 }
+
+footer {
+  background: #333;
+  color: #eee;
+  font-size: 14px;
+  padding: 20px;
+  padding-bottom: 100px;
+}
+ ul.unstyled {
+      list-style: none;
+      padding-left: 0px;
+   }
